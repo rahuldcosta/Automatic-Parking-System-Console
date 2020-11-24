@@ -1,0 +1,9 @@
+
+[
+squid:S1069"9Replace this use of System.out or System.err by a logger.(ŠÍÜÃúÿÿÿÿ8¬ùÅö».
+nsquid:S13013"KReplace this "switch" statement by "if" statements to increase readability.(¡­İ‘ÿÿÿÿÿ8¬ùÅö».
+V
+squid:S1066"9Replace this use of System.out or System.err by a logger.(®°Ã¤8¬ùÅö».
+\"squid:SwitchLastCaseIsDefaultCheck3""Add a default case to this switch.(¡­İ‘ÿÿÿÿÿ8¬ùÅö».
+V
+squid:S106#"9Replace this use of System.out or System.err by a logger.(ÑÄÃâ8§Æ¢ö».
